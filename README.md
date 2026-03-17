@@ -64,8 +64,7 @@ Connect with WCSS-Ltd
 📧 Email: wcss2019@gmail.com
 License
 
-This project is licensed under the MIT License. See the LICENSE
- file for details.
+This project is licensed under the MIT License.  
 https://www.facebook.com/wcss2019/
 https://www.instagram.com/wcss2019/
 https://x.com/CIS_Solutins
