@@ -42,21 +42,30 @@ git clone https://github.com/WCSS-Ltd/VLCIS-Rwanda.git
 pip install -r requirements.txt
 
 # Run Python scripts for data processing and visualization
-python scripts/run_model.pyications
-Credits
-
-Developed by Alexis Nzeyimana, Weather & Climate Sustainable Solutions Ltd, Rwanda.
-Connect with WCSS-Ltd
-## Connect with WCSS-Ltd
-
-E_Mail: wcss2019@gmail.com
-## Connect with WCSS-Ltd
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wcss2019/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wcss2019/)  
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CIS_Solutins)  
-Interactive Dashboards
-
+python scripts/run_model.py
 Climate Dashboard  https://www.wcss2019.com/climate-dashboard
 
 Air Quality Dashboard https://www.wcss2019.com/aqi-dashboard
+
+WCSS-Ltd/VLCIS-Rwanda/
+│── README.md
+│── LICENSE
+│── .gitignore
+│── data/          # Raw and processed climate & air quality datasets
+│── scripts/       # Python code for modeling, processing, visualization
+│── models/        # Trained AI/ML models
+│── outputs/       # Maps, dashboards, CSV/JSON outputs
+│── docs/          # Visuals, methodology, user guides, publications
+
+https://www.wcss2019.com/climate-dashboard
+https://www.wcss2019.com/aqi-dashboard
+Connect with WCSS-Ltd
+
+📧 Email: wcss2019@gmail.com
+License
+
+This project is licensed under the MIT License. See the LICENSE
+ file for details.
+https://www.facebook.com/wcss2019/
+https://www.instagram.com/wcss2019/
+https://x.com/CIS_Solutins
