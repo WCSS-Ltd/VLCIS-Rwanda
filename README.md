@@ -1,11 +1,7 @@
-# VLCIS-Rwanda
 # VLCIS-Rwanda: National Virtual Climate Observation System
-
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
-
 ## Executive Summary
 VLCIS-Rwanda is an AI-powered national virtual climate system providing high-resolution (3 km) weather and air quality data across Rwanda. With 1,543 virtual stations, VLCIS-Rwanda addresses gaps in physical meteorological infrastructure, supports climate resilience, and informs decision-making for agriculture, urban planning, disaster risk management, and policy-making.
-
 This system is aligned with international standards and contributes to initiatives by the **World Meteorological Organization (WMO)** and the **African Union (AU)**.
 
 ---
