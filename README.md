@@ -1,5 +1,4 @@
 # VLCIS-Rwanda
-AI-powered national virtual climate system with 1,543 stations generating high-resolution weather and air quality data across Rwanda.
 # VLCIS-Rwanda: National Virtual Climate Observation System
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
